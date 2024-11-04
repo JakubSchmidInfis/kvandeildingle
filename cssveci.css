@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+h1{
+    background-color: brown;
+}
+.red{
+    color: red;
+    font-weight: 400;/*tloušťka (moc to neni vidět)*/
+}
+.blue{
+    color:blue;
+    font-weight: 900;
+    font-size: 40px;
+}
+.green{
+    color: darkgreen;/*dá barvu*/
+    font-style: italic;/*styl písma (italic, ...)*/
+    font-size: 40px;/*velikost*/
+}
+.scary{
+    font-family: Rubik Wet Paint;/*FONT*/
+    font-size: 50px;
+}
+.nevim{
+    background-color: yellow;
+} /*KOMENTÁŘŘŘŘŘŘŘŘŘŘŘŘŘŘ*/
